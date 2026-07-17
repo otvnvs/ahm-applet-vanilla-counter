@@ -1,0 +1,8 @@
+{
+  "name": "Shell-Test App (DOM Module)",
+  "svgContent": "<path d='M12 2L2 22h20L12 2z'/>",
+  "type": "dom-module",
+  "entry": "dist/index.js",
+  "params": { "startAt": 42 },
+  "files": ["app.json", "dist/index.js", "dist/style.css"]
+}

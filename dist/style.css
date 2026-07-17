@@ -1,0 +1,6 @@
+.vanilla-counter{padding:1.5rem;font-family:system-ui,sans-serif;text-align:center}
+.vanilla-counter h1{color:#3b82f6}
+.vc-btn{margin:.5rem;padding:.8rem 1.6rem;font-size:1.5rem;cursor:pointer;border:2px solid #3b82f6;border-radius:8px;background:#fff;color:#3b82f6}
+.vc-btn:hover{background:#3b82f6;color:#fff}
+.vc-hint{color:#6b7280;font-size:.85rem;margin-top:1rem}
+.vc-hint code{background:#f3f4f6;padding:.15rem .4rem;border-radius:4px}
